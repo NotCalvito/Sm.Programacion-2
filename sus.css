@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(31, 29, 29);
+}
+p {
+  text-align: center;
+    color: whitesmoke;
+    
+}
+h1{
+    color: whitesmoke;
+    font-size: 300%;
+    text-align: center;
+}
+iframe{
+    text-align: center;
+}
